@@ -5,7 +5,7 @@ function LearningComponent() {
     <div>
       <h1>We're learning CI/CD here.</h1>
       <p>This is my first React project!</p>
-      <p>Learning React so far!</p>
+      <p>Loving React so far!</p>
     </div>
   );
 }
